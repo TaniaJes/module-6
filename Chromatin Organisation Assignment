@@ -1,0 +1,11 @@
+• Use mouse Hi-C and matched H3K27ac ChIP-seq data available on Big Purple:
+	–Hi-C fastq files + ChIP-seq H3K27ac peaks
+	–/gpfs/data/courses/bmscga2604/chromatin_organization
+• Process the Hi-C paired-end sequencing data using HiC-bench or HiCExplorer
+	–Align against the respective reference genome and generate filtered valid pairs
+	–Generate .hic files for visualization
+	–Create and normalize Hi-C contact matrices
+• Perform downstream analyses
+	–Call A/B compartments (use H3K27ac ChIP-seq data to discriminate A vs B)
+	–Compare A vs B compartments per chromosome in terms of gene density, housekeeping gene density and H3K27ac peak density
+• Visualize a 10Mb locus and include a track that shows the compartment score
