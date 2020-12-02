@@ -3,5 +3,9 @@ Assignment 5 - group 5
 
 Google doc: https://docs.google.com/document/d/1EemplLxmkS69ZNXgYVADliKUJec2Z-EOuDQGFRKVIqI/edit#heading=h.9h3zozazi4f3
 
+Google slides: 
+
+Google colab: 
+
 DataDirectory: /gpfs/data/courses/bmscga2604/chromatin_organization
 
